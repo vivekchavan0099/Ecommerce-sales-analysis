@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+.venv313/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Sensitive data
+.env
+*.bak
+data/
